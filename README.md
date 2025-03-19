@@ -1,7 +1,3 @@
-Here's a strong **README.md** file for your GitHub repository introducing your course on **Machine Learning Model Optimization Techniques**:
-
----
-
 # 🚀 Machine Learning Model Optimization Techniques
 
 ## 📌 Overview
