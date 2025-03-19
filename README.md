@@ -4,7 +4,7 @@
 
 Welcome to the **Machine Learning Model Optimization Techniques** course! 🎯  
 
-This is a **work-in-progress (WIP)** repository where I will explore **different machine learning models and their optimization techniques** through **Python notebooks and LinkedIn articles**.  
+This is a **work-in-progress (WIP)** repository where I will explore **different machine learning models and their optimization techniques** through **Python notebooks and LinkedIn posts**.  
 
 ✅ **Hands-on learning** – Download and run the Jupyter notebooks.  
 ✅ **Practical examples** – Implement model tuning techniques.  
